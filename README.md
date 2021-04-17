@@ -11,5 +11,7 @@ Library studies course in development
 2. European Models
  - Collecting Enlightenment
  - Collecting Status
-
-
+3. Codex & Incunabula
+ - History as Enlightenment Science
+ - America's Gilded Age
+4. 
