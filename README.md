@@ -6,8 +6,10 @@ Library studies course in development
 
 ## Schedule
  1. Introduction
-  - Presentations:
+  - Introducing the Class
+  - The Concept of Cultural Colonialism
+2. European Models
+ - Collecting Enlightenment
+ - Collecting Status
 
-    Introducing the Class
-    The Concept of Cultural Colonialism
 
