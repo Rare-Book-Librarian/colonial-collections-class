@@ -14,4 +14,6 @@ Library studies course in development
 3. Codex & Incunabula
  - History as Enlightenment Science
  - America's Gilded Age
-4. 
+4. 19th Century Conflicts
+ - Understanding Mexico
+ - Seizures & Destructions
