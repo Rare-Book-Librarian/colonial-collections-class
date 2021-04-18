@@ -10,8 +10,8 @@ Library studies course in development
   - Introducing the Class
   - The Concept of Cultural Colonialism
   - Examples
-    1. 
-    2.
+    1. [William & Mary University](https://libraries.wm.edu/spaces/special-collections-research-center)
+    2. [Brown University](https://library.brown.edu/hay/)
  - Reading
     1. 
 2. European Models
