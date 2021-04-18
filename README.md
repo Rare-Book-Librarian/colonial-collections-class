@@ -5,48 +5,124 @@
 Library studies course in development
 
 ## Schedule
+## Schedule
  1. Introduction
   - Introducing the Class
   - The Concept of Cultural Colonialism
+  - Examples
+    1. 
+    2.
+ - Reading
+    1. 
 2. European Models
  - Collecting Enlightenment
  - Collecting Status
+ - Examples
+    1. Oxford
+    2. Berlin
+ - Reading
+    1. 
 3. Codex & Incunabula
  - History as Enlightenment Science
  - America's Gilded Age
+ - Examples
+    1. 
+    2.
+ - Reading
+    1. 
 4. 19th Century Conflicts
  - Understanding Mexico
  - Seizures & Destructions
+ - Examples
+    1. 
+    2.
+ - Reading
+    1.
 5. America's Libraries
  - Research Collections
  - Library Science
+ - Examples
+    1. 
+    2.
+ - Reading
+    1.
 6. The Frontier
  -  California
  - Land Grants
+ - Examples
+    1. 
+    2.
+ - Reading
+    1.
 7. Island Empire
  - Philippines
  - Caribbean
+ - Examples
+    1. 
+    2.
+ - Reading
+    1.
 8. The Great War
  - A New Market
  - Rebuilding
+ - Examples
+    1. 
+    2.
+ - Reading
+    1.
 9. Island Empire II
  - Exotica
  - American Power
+ - Examples
+    1. 
+    2.
+ - Reading
+    1.
 10. WWII
  - Monument Men
  - Destroyers
+ - Examples
+    1. 
+    2.
+ - Reading
+    1.
 11. Occupation
  - Asia
  - Europe
+ - Examples
+    1. 
+    2.
+ - Reading
+    1.
 12. Cold War Colonialism
  - Global Capitalism
  - Africa
+ - Examples
+    1. 
+    2.
+ - Reading
+    1.
 13. Fantasies
  - The Archive
  - Orientalism
+ - Examples
+    1. 
+    2.
+ - Reading
+    1.
 14. Silences
  - Historical Absences
  - Contemporary Losses
+ - Examples
+    1. 
+    2.
+ - Reading
+    1.
 15. Conclusion
  - Digital Colonialism
  - Responding to American Colonialism
+ - Examples
+    1. 
+    2.
+ - Reading
+    1.
