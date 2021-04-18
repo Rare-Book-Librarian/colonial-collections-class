@@ -17,3 +17,13 @@ Library studies course in development
 4. 19th Century Conflicts
  - Understanding Mexico
  - Seizures & Destructions
+5. America's Libraries
+ - Research Collections
+ - Library Science
+6. The Frontier
+ -  California
+ - Land Grants
+7. Island Empire
+ - Philippines
+ - Caribbean
+8. 
