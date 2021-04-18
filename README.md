@@ -26,4 +26,27 @@ Library studies course in development
 7. Island Empire
  - Philippines
  - Caribbean
-8. 
+8. The Great War
+ - A New Market
+ - Rebuilding
+9. Island Empire II
+ - Exotica
+ - American Power
+10. WWII
+ - Monument Men
+ - Destroyers
+11. Occupation
+ - Asia
+ - Europe
+12. Cold War Colonialism
+ - Global Capitalism
+ - Africa
+13. Fantasies
+ - The Archive
+ - Orientalism
+14. Silences
+ - Historical Absences
+ - Contemporary Losses
+15. Conclusion
+ - Digital Colonialism
+ - Responding to American Colonialism
