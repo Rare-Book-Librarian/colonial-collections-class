@@ -6,7 +6,7 @@ Library studies course in development
 
 ## Schedule
 ## Schedule
- 1.** Introduction**
+ 1.**Introduction**
   - Introducing the Class
   - The Concept of Cultural Colonialism
   - Examples
