@@ -13,7 +13,7 @@ Library studies course in development
     1. [William & Mary University](https://libraries.wm.edu/spaces/special-collections-research-center)
     2. [Brown University](https://library.brown.edu/hay/)
  - Reading  
-    1.  
+  
 **2. European Models**
  - Collecting Enlightenment
  - Collecting Status
