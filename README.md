@@ -6,7 +6,7 @@ Library studies course in development
 
 ## Schedule
 ## Schedule
- 1.**Introduction**
+ **1. Introduction**
   - Introducing the Class
   - The Concept of Cultural Colonialism
   - Examples
@@ -14,7 +14,7 @@ Library studies course in development
     2. [Brown University](https://library.brown.edu/hay/)
  - Reading
     1. 
-2. **European Models**
+**2. European Models**
  - Collecting Enlightenment
  - Collecting Status
  - Examples
