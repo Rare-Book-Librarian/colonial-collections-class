@@ -18,8 +18,8 @@ Library studies course in development
  - Collecting Enlightenment
  - Collecting Status
  - Examples
-    1. Oxford
-    2. Berlin
+    1. Oxford---From [Ashmolean](https://www.ashmolean.org/) to [Pitt-Rivers](https://www.prm.ox.ac.uk/)
+    2. Berlin---From [Museum Island](https://www.smb.museum/en/museums-institutions/museumsinsel-berlin/home/) to [Ethnological Museum](https://www.smb.museum/en/museums-institutions/ethnologisches-museum/home/)
  - Reading
     1. 
 3. Codex & Incunabula
